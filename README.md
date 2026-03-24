@@ -16,6 +16,7 @@ A curated list of repositories containing reusable skills, slash commands, and p
 | [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | Claude Code plugin with workflow-based tools for planning, review, and knowledge docs designed to reduce technical debt over time |
 | [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) | A collection of Claude Code skills for content generation (infographics, slides), AI-powered backends, and utility tools (translation, markdown conversion) |
 | [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills) | Production-quality development skill guides for AI coding agents covering frontend, fullstack, mobile, and shader development |
+| [lijigang/ljg-skills](https://github.com/lijigang/ljg-skills) | Custom Claude Code skills for content visualization, concept analysis, academic paper summarization, and writing assistance |
 | [mattpocock/skills](https://github.com/mattpocock/skills) | Reusable Claude agent skills for planning & design, TDD/refactoring, tooling/git guardrails, and writing & knowledge management |
 | [obra/superpowers](https://github.com/obra/superpowers) | Agentic skills framework and software development methodology built on composable skills that automatically trigger during development tasks |
 
