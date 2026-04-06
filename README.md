@@ -2,25 +2,37 @@
 
 A curated list of repositories containing reusable skills, slash commands, and prompts for AI coding assistants.
 
-## Contents
-
-- [Skills](#skills)
-- [Contributing](#contributing)
-
 ## Skills
 
-| Repository | Description |
-|---|---|
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 19 structured engineering workflow skills for AI agents — covering the full dev lifecycle from spec and planning through building, testing, reviewing, and shipping |
-| [alchaincyf/steve-jobs-skill](https://github.com/alchaincyf/steve-jobs-skill) | AI skill embodying Steve Jobs' cognitive framework — 6 core mental models and 8 decision heuristics for product strategy, innovation, and thinking like Jobs |
-| [anthropics/skills](https://github.com/anthropics/skills) | Example Agent Skills for Claude — reusable instruction sets for specialized tasks including document creation, data analysis, and enterprise workflows |
-| [Dimillian/Skills](https://github.com/Dimillian/Skills) | Reusable development skills for Claude Code agents covering Apple platform development, GitHub workflows, code refactoring, React optimization, and macOS app packaging |
-| [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | Claude Code plugin with workflow-based tools for planning, review, and knowledge docs designed to reduce technical debt over time |
-| [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) | A collection of Claude Code skills for content generation (infographics, slides), AI-powered backends, and utility tools (translation, markdown conversion) |
-| [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills) | Production-quality development skill guides for AI coding agents covering frontend, fullstack, mobile, and shader development |
-| [lijigang/ljg-skills](https://github.com/lijigang/ljg-skills) | Custom Claude Code skills for content visualization, concept analysis, academic paper summarization, and writing assistance |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Reusable Claude agent skills for planning & design, TDD/refactoring, tooling/git guardrails, and writing & knowledge management |
-| [obra/superpowers](https://github.com/obra/superpowers) | Agentic skills framework and software development methodology built on composable skills that automatically trigger during development tasks |
+- **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)**
+  19 structured engineering workflow skills covering the full dev lifecycle from spec and planning through building, testing, reviewing, and shipping.
+
+- **[alchaincyf/steve-jobs-skill](https://github.com/alchaincyf/steve-jobs-skill)**
+  Steve Jobs' cognitive framework — 6 core mental models and 8 decision heuristics for product strategy and innovation.
+
+- **[anthropics/skills](https://github.com/anthropics/skills)**
+  Official example skills for Claude — reusable instruction sets for document creation, data analysis, and enterprise workflows.
+
+- **[Dimillian/Skills](https://github.com/Dimillian/Skills)**
+  Claude Code skills for Apple platform development, GitHub workflows, code refactoring, React optimization, and macOS app packaging.
+
+- **[EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)**
+  Claude Code plugin with workflow-based tools for planning, review, and knowledge docs to reduce technical debt.
+
+- **[JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills)**
+  Claude Code skills for content generation (infographics, slides), AI-powered backends, and utility tools (translation, markdown conversion).
+
+- **[lijigang/ljg-skills](https://github.com/lijigang/ljg-skills)**
+  Claude Code skills for content visualization, concept analysis, academic paper summarization, and writing assistance.
+
+- **[mattpocock/skills](https://github.com/mattpocock/skills)**
+  Claude agent skills for planning & design, TDD/refactoring, tooling/git guardrails, and writing & knowledge management.
+
+- **[MiniMax-AI/skills](https://github.com/MiniMax-AI/skills)**
+  Production-quality skill guides for AI coding agents covering frontend, fullstack, mobile, and shader development.
+
+- **[obra/superpowers](https://github.com/obra/superpowers)**
+  Agentic skills framework built on composable skills that automatically trigger during development tasks.
 
 ## Contributing
 
