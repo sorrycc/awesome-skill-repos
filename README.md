@@ -11,6 +11,8 @@ A curated list of repositories containing reusable skills, slash commands, and p
 
 | Repository | Description |
 |---|---|
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 19 structured engineering workflow skills for AI agents — covering the full dev lifecycle from spec and planning through building, testing, reviewing, and shipping |
+| [alchaincyf/steve-jobs-skill](https://github.com/alchaincyf/steve-jobs-skill) | AI skill embodying Steve Jobs' cognitive framework — 6 core mental models and 8 decision heuristics for product strategy, innovation, and thinking like Jobs |
 | [anthropics/skills](https://github.com/anthropics/skills) | Example Agent Skills for Claude — reusable instruction sets for specialized tasks including document creation, data analysis, and enterprise workflows |
 | [Dimillian/Skills](https://github.com/Dimillian/Skills) | Reusable development skills for Claude Code agents covering Apple platform development, GitHub workflows, code refactoring, React optimization, and macOS app packaging |
 | [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | Claude Code plugin with workflow-based tools for planning, review, and knowledge docs designed to reduce technical debt over time |
