@@ -34,6 +34,9 @@ A curated list of repositories containing reusable skills, slash commands, and p
 - **[obra/superpowers](https://github.com/obra/superpowers)** ![GitHub stars](https://img.shields.io/github/stars/obra/superpowers)
   Agentic skills framework built on composable skills that automatically trigger during development tasks.
 
+- **[DeadInternetStudios/100x-engineer-skill](https://github.com/DeadInternetStudios/100x-engineer-skill)** ![GitHub stars](https://img.shields.io/github/stars/DeadInternetStudios/100x-engineer-skill)
+  Engineering skills and a companion CLI for Claude Code, Cursor and Codex: spec-first planning, formal property checks, second-model review and evidence-based completion.
+
 ## Contributing
 
 Contributions welcome! Please open a PR to add a repo. Each entry should include:
